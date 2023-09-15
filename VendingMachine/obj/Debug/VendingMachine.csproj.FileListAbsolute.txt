@@ -1,0 +1,13 @@
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.MainForm.resources
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.MoneyEnterForm.resources
+C:\Users\Saida\Source\Repos\VendingMachineSimulator\VendingMachine\obj\Debug\VendingMachine.CoinEnterForm.resources
